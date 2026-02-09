@@ -1,0 +1,24 @@
+.main{
+    width:100%;
+    height:600px;
+    background-image: url('./bg.png');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    
+}
+.name h1{
+    color: white;
+    margin-left: 95px;
+    font-family: 'Popins',sans-serif;
+}
+.menu{
+    gap:25px;
+    margin-top: 15px;
+    margin-left: 185px;
+    display: flex;
+    color:white;
+    font-family: 'Popins',sans-serif;
+}
