@@ -22,6 +22,10 @@
     color:white;
     font-family: 'Popins',sans-serif;
 }
+.menu a{
+    margin-top: 15px;
+    color:white;
+}
 .turho{
     width:100%;
     height: 500px;
