@@ -258,3 +258,105 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.footer{
+    display: flex;
+    width:100%;
+    height: 400px;
+    background-color: #f7f5f5;
+}
+.connection{
+    margin-top: 15px;
+    width: 250px;
+    height: 250px;
+    /* background-color: aqua; */
+
+}
+.connection p{
+    margin-left: 25px;
+}
+.social{
+    width: 220px;
+    height: 30px;
+    /* background-color: grey; */
+    margin-left: 15px;
+    display: flex;
+    gap: 5px;
+}
+.travello{
+    margin-left: 40px;
+    width: 250px;
+    height: 280px;
+    /* background-color: aqua; */
+    margin-top: 15px;
+}
+.travello h5{
+    font-family: 'Popins',sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+.travello p{
+    margin-left: 85px;
+     font-family: 'Popins',sans-serif;
+     font-weight: bold;
+}
+.instagram{
+    margin-top: -18px;
+    width: 400px;
+    height: 230px;
+    /* background-color: blueviolet; */
+    margin-left: 50px;
+    
+}
+.instagram h5{
+    font-family: 'popins',sans-serif;
+    font-size: 20px;
+    margin-left: -20px;
+    text-align: center;
+}
+.instagram img{
+    height: 120px;
+     margin-left: 15xp;
+}
+.profile{
+    margin-top: -15px;
+    margin-left: -49px;
+gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    height: 300px;
+    /* background-color: red; */
+}
+.profile img{
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 50%;
+    width: 120px;
+}
+.letter{
+    margin-top: -340px;
+ margin-left: 380px;
+    width: 270px;
+    height: 300px;
+    /* background-color: yellow; */
+}
+.letter p{
+    margin-left: 15px;
+    font-family: 'Popins',sans-serif;
+}
+.letter input{
+    border:none;
+    border-radius: 10px;
+    height: 35px;
+    margin-left: 30px;
+}
+.letter button{
+    margin-left: 35px;
+    margin-top: 15px;
+    height: 35px;
+    border-radius: 12px;
+    border: none;
+    background-color: rgba(23, 123, 165, 1);
+    color:white;
+}
